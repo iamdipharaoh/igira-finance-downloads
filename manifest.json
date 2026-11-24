@@ -1,5 +1,7 @@
 {
-  "versionCode": 11,
-  "versionName": "0.2.7",
-  "changelog": "Current Igira Finance test build. The next downloadable update will appear after design review."
+  "apkUrl": "https://github.com/iamdipharaoh/igira-finance-downloads/releases/download/v0.2.8/igira-finance-0.2.8.apk",
+  "sha256": "ffb077ddc73724a920e3977ca0dc6d7ae6ee5bf602d567ddfad3b141a3bc6025",
+  "changelog": "Six-digit Igira PIN with an always-visible keypad, recovery codes, and optional fingerprint or face on eligible devices.\nExisting users can sign in with their current email and password to configure their PIN. The ledger stays on the device.\nNew permission screens, Solar security icons and an Igira wallet guide for welcome and the first scan.\nThe public update feed is now configured by default.",
+  "versionName": "0.2.8",
+  "versionCode": 12
 }
