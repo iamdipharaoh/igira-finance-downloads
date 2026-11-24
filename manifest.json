@@ -1,7 +1,7 @@
 {
-  "versionName": "0.2.10",
-  "apkUrl": "https://github.com/iamdipharaoh/igira-finance-downloads/releases/download/v0.2.10/igira-finance-0.2.10.apk",
-  "versionCode": 14,
-  "sha256": "c8f32b14254b63b36aba369a586ca1485c6f6699731d75004fb950a335c5888a",
-  "changelog": "## Meet Gori\n- Find Gori next to your balance, in Reports, during setup, and on other screens where he can help.\n\n## Stay on top of transactions\n- The bell shows how many detected transactions need approval.\n- Igira sends a daily reminder while transactions are waiting for review. You can turn reminders off in Notifications.\n\n## Easier to read\n- Improved icon contrast in Dark mode.\n- Available updates open a release-notes popup with a download button."
+  "apkUrl": "https://github.com/iamdipharaoh/igira-finance-downloads/releases/download/v0.2.11/igira-finance-0.2.11.apk",
+  "versionCode": 15,
+  "sha256": "0d3f22ef63b1a868650b2ec06749bdb53ef9fc67f814c0a13a814b7cc13d2f9f",
+  "changelog": "## Bicyclette is built in\n- Igira now uses Bicyclette for headings and balances as soon as you install the GitHub update.\n- DM Sans remains the font for body text and controls.",
+  "versionName": "0.2.11"
 }
