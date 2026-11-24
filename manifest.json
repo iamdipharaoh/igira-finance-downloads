@@ -1,7 +1,7 @@
 {
-  "sha256": "62d5af11fe0318fa00bcae0c2a58f4d3986a46474f72a743ff4dd90ff716b92b",
-  "versionName": "0.2.9",
-  "changelog": "Animated Gori artwork for welcome, account overview, insights, empty activity, privacy and overspending.\nSystem, Light and Dark appearance under Settings.\nImproved local Bicyclette font import and clearer setup instructions.\nOne-tap update checks and download progress before Android installation.",
-  "versionCode": 13,
-  "apkUrl": "https://github.com/iamdipharaoh/igira-finance-downloads/releases/download/v0.2.9/igira-finance-0.2.9.apk"
+  "versionName": "0.2.10",
+  "apkUrl": "https://github.com/iamdipharaoh/igira-finance-downloads/releases/download/v0.2.10/igira-finance-0.2.10.apk",
+  "versionCode": 14,
+  "sha256": "c8f32b14254b63b36aba369a586ca1485c6f6699731d75004fb950a335c5888a",
+  "changelog": "## Meet Gori\n- Find Gori next to your balance, in Reports, during setup, and on other screens where he can help.\n\n## Stay on top of transactions\n- The bell shows how many detected transactions need approval.\n- Igira sends a daily reminder while transactions are waiting for review. You can turn reminders off in Notifications.\n\n## Easier to read\n- Improved icon contrast in Dark mode.\n- Available updates open a release-notes popup with a download button."
 }
